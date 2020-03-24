@@ -1,0 +1,4 @@
+vhdl work "stop_watch.vhd"
+vhdl work "mux_7seg.vhd"
+vhdl work "hex_to_7seg.vhd"
+vhdl work "Stopwatch.vhd"

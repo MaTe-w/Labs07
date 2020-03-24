@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/micha/Documents/ise/Stopwatch/top.xst" -ofn "C:/Users/micha/Documents/ise/Stopwatch/top.syr" 
